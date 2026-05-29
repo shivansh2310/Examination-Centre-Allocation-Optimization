@@ -1,0 +1,5 @@
+allocation,assigned_students,avg_distance,max_distance,first_preference_rate,second_preference_rate,third_preference_rate,outside_preference_rate,avg_hardship,avg_utilization_rate,max_utilization_rate
+distance_focused,2000,58.797,164.399,0.42,0.2425,0.1415,0.196,48.726,0.3048,0.583
+preference_focused,2000,61.663,201.911,0.474,0.269,0.155,0.102,29.105,0.3036,0.5319
+accessibility_focused,2000,58.929,164.399,0.4245,0.246,0.146,0.1835,26.969,0.3053,0.583
+balanced,2000,59.005,164.399,0.431,0.248,0.144,0.177,38.6,0.305,0.5745
