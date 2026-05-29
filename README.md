@@ -2,6 +2,8 @@
 
 This project simulates examination centre allocation and compares a baseline administrative assignment with an optimized assignment that minimizes student hardship.
 
+The project is intended as an experimental applied mathematics and operations research study using synthetic data.
+
 The optimized model uses PuLP when available. If PuLP is not installed, the project falls back to an exact standard-library min-cost-flow solver so the experiment can still run in a bare Python environment.
 
 ## Run
